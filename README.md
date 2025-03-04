@@ -56,7 +56,6 @@ Enter a letter or try to guess the whole word:
 
 Программа обновляет состояние угадываемого слова:
 
-Copy
   +---+
   |   |
       |
